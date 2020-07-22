@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: complete
+  server:
+    port: 3030
+
